@@ -1,10 +1,10 @@
-# HoloBlaster
+# Holo Blaster
 
 This is an experimental XR game that lets you shoot a blaster using your fingers as the trigger. It was built using Unity and the [Mixed Reality Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity), and was tested on HoloLens 2.
 
 When you play, your hands become guns, and you can then use your pointer finger or your thumb as the trigger. Targets are spawned around the world which you can shoot.
 
-![Demo video 1](./Assets/Resources/HoloBlasterTrailer.gif)
+<img src="./Assets/Resources/HoloBlasterTrailer.gif" alt="Demo Video 1" width="800" height="500">
 
 ## How to play
 
@@ -51,4 +51,4 @@ Thank you to the following people:
 
 <img src="./Assets/Resources/andevenamenu.png" alt="And even a menu!" width="800" height="500">
 
-![Demo video 2](./Assets/Resources/HoloBlasterDemo.gif)
+<img src="./Assets/Resources/HoloBlasterDemo.gif" alt="Demo Video 2" width="800" height="500">
